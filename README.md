@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Chrysanthos Spanidis
 
-<!--
-**CSPANIDIS/CSPANIDIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in computers, with a particular focus on **Generative AI Engineering** and **Quantum Computing**.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Gemini Research Assistant](https://github.com/CSPANIDIS/Gemini-Research-Assistant) — A command-line assistant for web research, text analysis, summaries, and saving notes.
+
+## Other projects
+
+- [Final project: Embedding AI](https://github.com/CSPANIDIS/oaqjp-final-project-emb-ai) — A course project repository.
+
+## Find me online
+
+- [LinkedIn](https://www.linkedin.com/in/chrysanthos-spanidis-316285397/)
+- [Personal website](https://chrysanthosspanidis-homepage.netlify.app/)
+
+Thanks for visiting. Feel free to explore my repositories!
